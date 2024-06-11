@@ -8,9 +8,9 @@ Bem-vindo ao repositório do **Meals App**! Este aplicativo foi desenvolvido com
 
 ## 📸 Screenshots
 
-| Home | Detalhes da Refeição | Favoritos |
-|------|----------------------|-----------|
-| ![Home](path_to_screenshot1.png) | ![Detalhes](path_to_screenshot2.png) | ![Favoritos](path_to_screenshot3.png) |
+| Home | Listagem de Refeições por Categoria | Detalhes da Refeição | Favoritos | Drawer |
+|------|-----------|-----------|-----------|-----------|
+| ![image](https://github.com/burghausen8/Meals/assets/96838388/b4d09b10-4715-484a-9000-381941e005b6) | ![image](https://github.com/burghausen8/Meals/assets/96838388/f47b3729-9358-4653-9cc1-8d0fae2f4793) | ![image](https://github.com/burghausen8/Meals/assets/96838388/1422edaa-f5ee-41b9-8d91-eeb97d26d697) | ![image](https://github.com/burghausen8/Meals/assets/96838388/e9b02307-3da7-4e23-b6cd-a528c0edd95c) | ![image](https://github.com/burghausen8/Meals/assets/96838388/2facc698-2c4f-47b1-9de3-272c34ea2707) | 
 
 ## 🎯 Funcionalidades
 
